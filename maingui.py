@@ -58,9 +58,6 @@ class plasticmoldmenu():
         Btn_7  = ttk.Button(Frm_button,style="a.TButton",text='อื่นๆ') #Shrinkage ค่าการหดตัว
         Btn_7.grid(row=3,column=1,ipadx=30,ipady=20,padx=20,pady=10)
 
-
-
-
 mainGUI = mainwindow()
 mainGUI.GUIWindow()
 
